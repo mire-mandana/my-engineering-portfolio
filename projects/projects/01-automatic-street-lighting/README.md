@@ -135,3 +135,10 @@ Further validation of the physical LED output is required.
 This project demonstrates how embedded electronics can be used to automate lighting systems.
 
 It introduces the practical integration of sensors, microcontrollers, electronic components and programming to address an everyday engineering problem.
+## Project Images
+
+### Tinkercad Circuit Design
+![LDR Circuit - Image 1](LDR%20image1.jpeg)
+
+### Tinkercad Simulation
+![LDR Circuit - Image 2](LDR%20image2.jpeg)
